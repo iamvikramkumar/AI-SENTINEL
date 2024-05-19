@@ -24,15 +24,15 @@ And that is why YOLO is powerful and fast.
 
 ## Sample Output 
 
-![Screenshot (713)](https://github.com/iamvikramkumar/AI-Sentinel-Enhancing-Video-Surveillance-with-Intelligent-Monitoring/assets/89016145/8abc3bdb-84bb-4eb5-8f7e-b41e85ed8302)
+![Screenshot (715)](https://github.com/iamvikramkumar/AI-SENTINEL/assets/89016145/dcf9f3d9-d2f8-41f8-99f4-061e5bc84ac6)
 <br>
 Vehicle Detection Output
 
-![Untitled design](https://github.com/iamvikramkumar/AI-Sentinel-Enhancing-Video-Surveillance-with-Intelligent-Monitoring/assets/89016145/4b65f722-d8b1-49bd-86c2-74b674eef21c)
+![image](https://github.com/iamvikramkumar/AI-SENTINEL/assets/89016145/4ae21db0-c0b1-4e25-8c63-ea74a5189435)
 <br>
 Crash Detection Output
 
-![image](https://github.com/iamvikramkumar/AI-Sentinel-Enhancing-Video-Surveillance-with-Intelligent-Monitoring/assets/89016145/2818a593-f8a4-42d6-81cf-aa223f152d92)
+![Screenshot (737)](https://github.com/iamvikramkumar/AI-SENTINEL/assets/89016145/3983740a-f7ce-4646-a2bb-eecc3c7f0a87)
 <br>
 Fall Detection Output
 

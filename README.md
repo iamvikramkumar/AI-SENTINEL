@@ -28,7 +28,7 @@ And that is why YOLO is powerful and fast.
 <br>
 Vehicle Detection Output
 
-![image](https://github.com/iamvikramkumar/AI-SENTINEL/assets/89016145/4ae21db0-c0b1-4e25-8c63-ea74a5189435)
+![screenshot](https://github.com/iamvikramkumar/AI-SENTINEL/assets/89016145/449027af-3904-4e2d-8630-60ade737c7a2)
 <br>
 Crash Detection Output
 

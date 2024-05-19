@@ -1,8 +1,8 @@
 # AI Sentinel | O D S
 <div>
-   <a href="https://github.com/iamvikramkumar/AI-Sentinel-Enhancing-Video-Surveillance-with-Intelligent-Monitoring/wiki">
+   <a href="https://github.com/iamvikramkumar/AI-SENTINEL/wiki">
 <!--    <img src="https://github.com/iamvikramkumar/AI-Sentinel-Enhancing-Video-Surveillance-with-Intelligent-Monitoring/assets/89016145/4630c877-0c88-4006-bd73-02fbd67bf241" alt="person" width="600" height="400"> -->
-      <img src="https://github.com/iamvikramkumar/AI-Sentinel-Enhancing-Video-Surveillance-with-Intelligent-Monitoring/assets/89016145/4630c877-0c88-4006-bd73-02fbd67bf241" alt="person">
+      <img src="https://github.com/iamvikramkumar/AI-SENTINEL/assets/89016145/8531ba14-3336-4788-bad9-efba07ac5279" alt="person">
 </div> 
 
 

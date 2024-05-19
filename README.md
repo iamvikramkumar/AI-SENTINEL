@@ -8,7 +8,7 @@
 
 **Welcome to the AI Sentinel Research Project! This initiative is dedicated to exploring and advancing the capabilities of video surveillance through the integration of artificial intelligence for intelligent monitoring.**
 
-This is a project to perform fall detection, vehicle crash detection and social distancing detection from CCTV cameras in real-time.
+This is a project to perform fall detection, vehicle crash detection and vehicle license detection from CCTV cameras in real-time.
 
 ## How YOLO works ?
 

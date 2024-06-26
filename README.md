@@ -41,7 +41,7 @@ Fall Detection Output
 ## How to Contribute
 **Your contribution to the AI Sentinel Research Project is valuable! Here's how you can get involved:**
 
-**🤝 Collaboration: If you're passionate about AI, surveillance, or security, feel free to join the research efforts. Reach out to [ {soon updated} email.com ] to express your interest.**
+**🤝 Collaboration: If you're passionate about AI, surveillance, or security, feel free to join the research efforts.**
 
 **📚 Literature Review: If you have expertise in relevant literature, contribute by sharing insights, research papers, or studies related to video surveillance and AI.**
 
